@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/zrgam_000/git/AnalysisOfAlgorithms/Sort.cpp
+
+C:/Users/zrgam_000/git/AnalysisOfAlgorithms/main.cpp
+iostream
+-
+Sort.cpp
+C:/Users/zrgam_000/git/AnalysisOfAlgorithms/Sort.cpp
+
